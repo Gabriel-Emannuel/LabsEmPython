@@ -1,1 +1,0 @@
-Estou criando todas as tarefas em Java transcrevendo-as em código para python.
